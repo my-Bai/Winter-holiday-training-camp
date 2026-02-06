@@ -1,5 +1,4 @@
-# Winter-holiday-training-camp
-————QG工作室AI组寒假训练营作业与笔记
+# QG工作室AI组寒假训练营作业与笔记
 ## 导览目录
 ### Note  
 1.Markdown语法的学习
